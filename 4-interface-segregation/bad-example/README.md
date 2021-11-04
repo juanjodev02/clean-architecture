@@ -1,0 +1,1 @@
+Dentro de la interacción de clases de este ejemplo podemos observar que las clases User solo usan una porción de código de la clase OPS, lo que implica mucha dependencia entre clases que es completamente innecesaria. Para solucionar esto se debe segregar las operaciones en interfaces.
